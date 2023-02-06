@@ -3,4 +3,6 @@ Hej
 Test av Branches
 test av pull
 
-testar branches igen
+test 2 av branch
+test av merge
+
